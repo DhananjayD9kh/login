@@ -1,0 +1,17 @@
+.container{
+    
+    background-color: rgb(234, 243, 245);
+    box-shadow: rgba(0,0,0,0.8) 0px 1px 8px;
+    border-radius: 4px;
+    
+}
+.card h1{
+    text-align: center;
+    color: rgb(7, 111, 230);
+}
+.card{
+    text-align: center;
+}
+.card input{
+    text-align: center;
+}
